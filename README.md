@@ -4,7 +4,7 @@ Panzer Network Yahoo Widget, written in Javascript for the Yahoo
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
-![panzer-stopwatch650](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/352fb2cb-742d-4e24-afe7-906b05e7fb1e)
+![panzer-network-ywidget-disp](https://github.com/yereverluvinunclebert/Panzer-network-gauge-Ywidget/assets/2788342/110f82bf-33e1-4079-a7bc-38dcf397f6a7)
 
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. 
 It is a simple network gauge. The Network gauge displays network activity for 
@@ -48,7 +48,8 @@ Running the widget using a javascript engine frees javascript from running only
 within the captivity of a browser, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
- ![Icon](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/332a7b59-abd6-4eac-857d-51dfe2d80af9)
+![Default2](https://github.com/yereverluvinunclebert/Panzer-network-gauge-Ywidget/assets/2788342/be7fb3ae-a58d-4302-bed5-3644de5646db)
+
  
 Instructions for running Yahoo widgets on Windows
 =================================================
@@ -81,8 +82,7 @@ Wit these instructions you should be able to start Yahoo! Widgets and the
 menubar item should appear. Widgets can then be started from the menubar or by 
 double-clicking on the KON file in the usual way.
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/bf3ec2c8-b689-434b-be30-f1f441c41c0a)
-
+![about](https://github.com/yereverluvinunclebert/Panzer-network-gauge-Ywidget/assets/2788342/7f52496a-e7db-4a3a-a869-9c32a33f41ef)
 
 LICENCE AGREEMENTS:
 
